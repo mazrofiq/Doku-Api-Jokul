@@ -51,13 +51,16 @@ class Client
 
     public function generateJC($params)
     {
+        $this->config = $this->getConfig();
+        // var_dump($this->config); die;
         //$this->config = $this->getConfig();
         return JokulCheckout::generated($this->config, $params);
     }
 
     public function generateCrediCard($params)
     {
-        $this->config = $this->getConfig();
+        // var_dump($this->config); die;
+        // $this->config = $this->getConfig();
         return CreditCard::generated($this->config, $params);
     }
 

@@ -62,7 +62,8 @@ class PaycodeGenerator
                     "integration" => array(
                         "name" => "php-library",
                         "version" => "2.1.0"
-                    )
+                    ),
+                    "doku_wallet_notify_url" => "https://dw-notify.free.beeceptor.com"
                 )
             );
         }

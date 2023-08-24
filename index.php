@@ -41,11 +41,11 @@
 
               <tr>
                 <td>clientId</td>
-                <td><input type="text" name="clientid" value="BRN-0226-1678074481590"></td>
+                <td><input type="text" name="clientid" value="BRN-0283-1659664517680"></td>
               </tr>
               <tr>
                 <td>secretkey</td>
-                <td><input type="text" name="secretkey" value="SK-knKVOYJOyboHI4zLOv5b"></td>
+                <td><input type="text" name="secretkey" value="SK-olOoLkVVfcn7oLNqrlgG"></td>
               </tr>
               <tr>
                 <td>Invoice</td>
